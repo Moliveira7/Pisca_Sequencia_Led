@@ -15,8 +15,8 @@ Projeto desenvolvido para demonstrar atraves de um jogo de apertar o botão(onde
 <h2> :hammer: Funcionalidades do projeto</h2>
 
 - `Funcionalidade 1`: Pode ser usado como um jogo de memória
-- `Funcionalidade 2`: Ao mudar a logica do código e aprveitar a ideia da montagem,
-                      pode ser usado como semaforo
+- `Funcionalidade 2`: Ao mudar a logica do código e aproveitar a idéia da montagem,
+                      pode ser usado como semáforo
 
  
 <h2> 📁 Acesso ao link do video de teste do circuito pratico</h2>
