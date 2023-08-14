@@ -14,8 +14,9 @@ Projeto desenvolvido para demonstrar atraves de um jogo de apertar o botão(onde
 
 <h2> :hammer: Funcionalidades do projeto</h2>
 
-- `Funcionalidade 1`: Informar o quão incrível é a ave Maleo
-- `Funcionalidade 2`: Mostrar algumas espécies de aves exóticas e belas
+- `Funcionalidade 1`: Pode ser usado como um jogo de memória
+- `Funcionalidade 2`: Ao mudar a logica do código e aprveitar a ideia da montagem,
+                      pode ser usado como semaforo
 
  
 <h2> 📁 Acesso ao link do video de teste do circuito pratico</h2>
@@ -26,9 +27,13 @@ https://youtu.be/d4tQuEVepBw
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [C++](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- linguagem de [C++](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - Plataforma do Arduino
-- 
+- 4 LEDS
+- 4 Resistores de 220 Ohm
+- 4 Botões
+- 13 Fios de Jumpers macho macho
+- 1 Placa protoboard
 
 
 <h2> Autor </h2>
