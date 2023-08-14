@@ -29,6 +29,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - linguagem de [C++](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - Plataforma do Arduino
+- 1 Arduino uno
 - 4 LEDS
 - 4 Resistores de 220 Ohm
 - 4 Botões
